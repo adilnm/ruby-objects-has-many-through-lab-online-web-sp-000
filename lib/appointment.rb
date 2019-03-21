@@ -12,6 +12,4 @@ class Appointment
     @@all
   end
   
-  def patient
-
 end
